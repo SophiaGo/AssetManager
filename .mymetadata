@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="AssetManager"
+  id="myeclipse.1460817503729"
+  context-root="/AssetManager"
+  j2ee-spec="6.0"
+  archive="AssetManager.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
