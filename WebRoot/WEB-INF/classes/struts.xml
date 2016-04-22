@@ -5,5 +5,17 @@
 		<action name="login" class="Login">
 			<result name="success">/index.jsp</result>
 		</action>
+		
+		<action name="section" class="sectionAction">
+			<result name="none">/none.jsp</result>
+			<result name="createSuccess">/success.jsp</result>
+			<result name="createFail">/index.jsp</result>
+		</action>
+		
+		<action name="usermanage" class="usermanageAction">
+			<result name="none">/none.jsp</result>
+			<result name="createSuccess">/success.jsp</result>
+			<result name="createFail">/index.jsp</result>
+		</action>
 	</package>
 </struts>    
